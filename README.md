@@ -1,0 +1,3 @@
+Hi, this is Joshua Koshy and this is just a price calculator software I developed to help calculate the price of my company's sopftware and their different types of factors they intake when calculating it. I changed the numbers to random numbers to some
+extent because I do not want to leak information of their actual price since its its private. This python executable software utilizes tkinter and takes the form of a app that can be launched on employees computer to calculate the software's price based on what 
+specific needs the client wants such as OCM or AI incorporation. This is just a simple application that I did quickly but it performs its job very well and works to what it was made to do. Thank you so much.
